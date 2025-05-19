@@ -1,4 +1,4 @@
-# Custom Red Hat Notes
+# Custom Red Hat Documentation
 
 Welcome to **Custom Red Hat Notes** – a curated and easy-to-follow training guide for Red Hat Enterprise Linux (RHEL) administration and certification preparation. These notes are created from scratch based on personal study, hands-on practice, and official learning objectives.
 
